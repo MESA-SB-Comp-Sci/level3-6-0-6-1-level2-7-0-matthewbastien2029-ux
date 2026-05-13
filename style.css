@@ -5,3 +5,31 @@
 }
 
 /* write all your rules below */
+.b-1{
+    
+background-color: skyblue;
+width: 100vw;
+height: 200px;
+}
+
+.b-2{
+background-color: yellow;
+width: 25vw;
+height: 100px;
+border-color: pink;
+border: 5px;
+}
+
+.p{
+    color: skyblue;
+}
+
+.g{
+    color: yellowgreen;
+}
+
+.h{
+    background-color: pink;
+    border-color: red;
+    border: 5px;
+}
